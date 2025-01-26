@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Larina Maskren!
+### 🚀 Full Stack Developer | Tech Enthusiast 
 
-<!--
-**Larii2024/Larii2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌟 Passionate about building scalable web applications and tools.
+- 🔭 Currently working on [Project Name](link-to-repo).
+- 📚 Proficient in JavaScript, React, Node.js, Java, Express.js and PostgreSQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+
+---
+
+### 💡 Featured Projects:
+1. [Project 1 Name](link-to-repo) - Description.
+2. [Project 2 Name](link-to-repo) - Description.
+
+---
+📫 **Contact Me**: [LinkedIn](https://www.linkedin.com/in/larina-maskren-b528ba1ab/), [Email](mailto:larinamaskren@gmail.com)
