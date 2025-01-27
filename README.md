@@ -7,7 +7,8 @@
 
 ---
 
-### 🛠️ My Skills:
+### 🛠️ My Technical Skills:
+
 ### 🛠️ My Tech Stack
 
 <table>
