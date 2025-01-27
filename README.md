@@ -8,10 +8,10 @@
 ---
 
 ### 🛠️ My Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-blue)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-![Express.js](https://img.shields.io/badge/-Express.js-orange)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="Javascript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="CSS" />
 
 ---
 
