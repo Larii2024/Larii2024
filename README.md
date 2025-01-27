@@ -2,8 +2,8 @@
 ### 🚀 Masters in Computer Science | Full Stack Developer | Tech Enthusiast 
 
 - 🌟 Passionate about building scalable web applications and tools.
-- 🔧 Currently enhancing my skills in JavaScript, React, Node.js, Fastify, GraphQL and PostgreSQL to build modern applications.
 - 📚 Specialized in MERN Technology.
+- 🔧 Currently enhancing my skills in JavaScript, React, Node.js, Fastify, GraphQL and PostgreSQL to build modern applications.
 
 ---
 
@@ -72,6 +72,21 @@
   </tr>
 </table>
 </div>
+
+---
+
+### 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&theme=default&count_private=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larii2024&theme=default&layout=donut&hide=jupyter%20notebook" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
