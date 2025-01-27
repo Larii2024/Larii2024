@@ -9,40 +9,44 @@
 
 ### 🛠️ My Technical Skills:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
-    <p>React</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-    <p>JavaScript</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
-    <p>HTML5</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
-    <p>CSS3</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
-    <p>Node.js</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" />
-    <p>Express.js</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-    <p>Python</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
-    <p>Docker</p>
-  </div>
-</div>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
+      <br />React
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+      <br />JavaScript
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+      <br />HTML5
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+      <br />CSS3
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+      <br />Node.js
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" />
+      <br />Express.js
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+      <br />Python
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+      <br />Docker
+    </td>
+  </tr>
+</table>
 
 
 ---
