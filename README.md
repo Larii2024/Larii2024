@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Larina Maskren!
-### 🚀 Full Stack Developer | Tech Enthusiast 
+### 🚀 Masters in Computer Science | Full Stack Developer | Tech Enthusiast 
 
 - 🌟 Passionate about building scalable web applications and tools.
 - 🔭 Currently working on [Project Name](link-to-repo).
@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![React](https://img.shields.io/badge/-React-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Express.js](https://img.shields.io/badge/-Express.js-orange)
 
 ---
 
