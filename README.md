@@ -1,8 +1,8 @@
-<p align="center"><img width="80%" alt="Hi! I'm Larina, an aspiring software developer" src="title.png" /></p>
+<p align="center"><img width="80%" alt="Hi! I'm Larina, an aspiring software developer" src="./title.png" /></p>
 
 ### 🚀 About me
 
-- 🌟 Passionate about building scalable web applications and tools.
+- 🌟 Passionate about building scalable software applications and tools.
 - 📚 Specialized in MERN Technology.
 - 🔧 Currently enhancing my skills in JavaScript, React, Node.js, Fastify, GraphQL and PostgreSQL to build modern applications.
 <br/>
