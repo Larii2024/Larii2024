@@ -80,22 +80,14 @@
     <td>
       <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&&rank_icon=percentile&hide=issues&theme=dark&show=prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&rank_icon=percentile&hide=issues&show=prs_merged,prs_merged_percentage&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&rank_icon=percentile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&rank_icon=percentile&hide=issues&show=prs_merged,prs_merged_percentage&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&rank_icon=percentile" />
 </picture>
     </td>
     <td>
       <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Larii2024&theme=default&layout=donut&hide=jupyter%20notebook"
-    media="(prefers-color-scheme: dark)"
-  />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Larii2024&theme=default&layout=donut&hide=jupyter%20notebook"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
