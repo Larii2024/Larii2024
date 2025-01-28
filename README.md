@@ -75,16 +75,35 @@
 <br/>
 
 ### 📊 GitHub Stats
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&theme=default&count_private=true&rank_icon=github" alt="GitHub Stats" />
+      <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&&rank_icon=percentile&hide=issues&theme=dark&show=prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&rank_icon=percentile&hide=issues&show=prs_merged,prs_merged_percentage&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&rank_icon=percentile&hide=issues&show=prs_merged,prs_merged_percentage&rank_icon=github" />
+</picture>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larii2024&theme=default&layout=donut&hide=jupyter%20notebook" alt="Top Languages" />
+      <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Larii2024&theme=default&layout=donut&hide=jupyter%20notebook"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Larii2024&theme=default&layout=donut&hide=jupyter%20notebook"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larii2024&theme=default&layout=donut&hide=jupyter%20notebook" />
+</picture>
     </td>
-  </tr>
+</tr>
 </table>
 <br/>
 
