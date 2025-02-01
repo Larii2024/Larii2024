@@ -75,28 +75,15 @@
 <br/>
 
 ### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&rank_icon=percentile"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Larii2024&show_icons=true&rank_icon=percentile" />
-</picture>
-    </td>
-    <td>
-      <picture>
+
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Larii2024&theme=default&layout=donut&hide=jupyter%20notebook"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larii2024&theme=default&layout=donut&hide=jupyter%20notebook" />
 </picture>
-    </td>
-</tr>
-</table>
+
 <br/>
 
 ### 💡 Featured Projects
