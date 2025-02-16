@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hi! I'm Larina, an aspiring software developer" src="./name.png" /></p>
+<p align="center"><img width="80%" alt="Hi! I'm Larina, an aspiring software developer" src="./titleName.png" /></p>
 
 ### 🚀 About me
 
