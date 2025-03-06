@@ -93,6 +93,6 @@
 4. [My Portfolio](https://github.com/Larii2024/developer-portfolio-nextjs) - My Online Portfolio built with NextJS framework to showcase my work and skills as a full-stack software developer.
    
 <br/>
-### 📫 Contact Me
 
+### 📫 Contact Me
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30"/>](https://www.linkedin.com/in/larina-maskren-b528ba1ab/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="30" />](mailto:larinamaskren@gmail.com)
