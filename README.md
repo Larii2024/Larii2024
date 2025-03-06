@@ -90,9 +90,9 @@
 1. [eAarogya Portal for Electronic Health Record Management](https://github.com/wei-b0/eAarogya-Portal-for-EHR-Management) - eAPEM is the winning solution built for the problem statement submitted by Ministry of Health and Family Welfare in the Smart India Hackathon 2020. This application focuses on use of private blockchain to create and manage electronic health records on top of the existing Aadhaar Identity Infrastructure (UIDAI).
 2. [Restaurant Management System](https://github.com/KLS-Gogte-Institute-of-Technology-bgm/sd-lab-project-refactor-batch13) - RMS is my first full-stack web development project, built using MongoDB, Express.js, React, Node.js .
 3. [IEEE-GIT Website Contest](https://larii2024.github.io/IEEE_GIT-Website-Contest-Refactor/) - A static HTML web page built on the contest guidelines organized by IEEE-GIT.
-<br/>
 4. [My Portfolio](https://github.com/Larii2024/developer-portfolio-nextjs) - My Online Portfolio built with NextJS framework to showcase my work and skills as a full-stack software developer.
-
+   
+<br/>
 ### 📫 Contact Me
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30"/>](https://www.linkedin.com/in/larina-maskren-b528ba1ab/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="30" />](mailto:larinamaskren@gmail.com)
